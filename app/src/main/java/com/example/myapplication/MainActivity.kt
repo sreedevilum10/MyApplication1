@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//qwertyuiop
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
