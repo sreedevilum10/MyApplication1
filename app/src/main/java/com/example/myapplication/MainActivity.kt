@@ -33,6 +33,7 @@ class MainActivity : ComponentActivity() {
 //ajdfshkjadsh
 //assfgdgd
 //qwertyui
+//qewrtryj
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
